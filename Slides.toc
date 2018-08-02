@@ -1,0 +1,10 @@
+\babel@toc {portuguese}{}
+\beamer@sectionintoc {1}{Hist\IeC {\'o}ria}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Origem}{2}{0}{1}
+\beamer@subsectionintoc {1}{2}{Usos tradicionais}{9}{0}{1}
+\beamer@subsectionintoc {1}{3}{Taiko moderno}{14}{0}{1}
+\beamer@subsectionintoc {1}{4}{No Brasil}{17}{0}{1}
+\beamer@subsectionintoc {1}{5}{Nosso grupo}{27}{0}{1}
+\beamer@sectionintoc {2}{Curiosidades}{36}{0}{2}
+\beamer@subsectionintoc {2}{1}{Instrumentos}{36}{0}{2}
+\beamer@subsectionintoc {2}{2}{Entreterimento}{37}{0}{2}
